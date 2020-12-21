@@ -23,8 +23,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+</br></br></br>
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/MohamedAliBouzaiene/MohamedAliBouzaiene">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohamedAliBouzaiene&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
