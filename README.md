@@ -8,6 +8,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/MohamedAliBouzaiene/MohamedAliBouzaiene/main/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
+</br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -25,6 +26,7 @@
 
 </br></br></br>
 ### ⚙️ &nbsp;GitHub Analytics
+</br>
 <p align="center">
 <a href="https://github.com/MohamedAliBouzaiene/MohamedAliBouzaiene">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohamedAliBouzaiene&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -32,5 +34,5 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Contact Me @ <a href="mailto:mabouzaiene1@gmail.com"><img src="https://img.shields.io/badge/-mabouzaiene1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+### 🤝🏻 &nbsp;Contact Me @ <a href="mailto:mabouzaiene1@gmail.com">mabouzaiene1@gmail.com</a>
 
