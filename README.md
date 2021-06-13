@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying and trying to learn more programming languages.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/MohamedAliBouzaiene/MohamedAliBouzaiene/main/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/MohamedAliBouzaiene/MohamedAliBouzaiene/main/Night-Coding.gif" align="center"/>
 
 </br></br></br>
 ### ⚙️ &nbsp;GitHub Analytics
