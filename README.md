@@ -17,5 +17,5 @@
 
 ### 🤝🏻 &nbsp;Contact Me @ <a href="mailto:mabouzaiene1@gmail.com">mabouzaiene1@gmail.com</a>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/MohamedAliBouzaiene/MohamedAliBouzaiene/main/Night-Coding.gif" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/MohamedAliBouzaiene/MohamedAliBouzaiene/main/Night-Coding.gif" align="right"/>
 
