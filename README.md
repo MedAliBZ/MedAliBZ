@@ -1,5 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Mohamed Ali Bouzaiene
 <img alt="Night Coding" src="https://raw.githubusercontent.com/MohamedAliBouzaiene/MohamedAliBouzaiene/main/Night-Coding.gif" align="right"/>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
