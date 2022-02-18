@@ -6,7 +6,9 @@
 🎓 &nbsp;I'm currently studying and trying to learn more about programming.
 
 </br></br></br>
+
 ### ⚙️ &nbsp;GitHub Analytics
+
 </br>
 <p align="center">
 <a href="https://github.com/MohamedAliBouzaiene/MohamedAliBouzaiene">
